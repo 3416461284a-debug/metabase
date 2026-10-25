@@ -1,3 +1,28 @@
+<!-- 中文用途说明：开始 -->
+# 可视化查询与业务看板｜Metabase
+
+> **一句话看懂：用界面查询数据、制作业务看板。**
+
+| 你想了解什么 | 中文说明 |
+|---|---|
+| 这个工具能做什么 | 用界面查询数据、制作业务看板。 |
+| 怎么使用 | 部署后通过网页界面连接数据库、查询数据和制作看板。 |
+| 适合谁 | 想通过界面查看数据、共享分析看板的人。 |
+| 主要限制 | 部分精细权限功能收费。 |
+| 后续可以怎么改 | 先按免费版做模板，在数据库中管理访问权限。 |
+
+**当前状态：代码已复制到这个账号；尚未安装或实际运行验证。上面的修改建议还没有实施。**
+
+[查看中文工具总目录](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1) · [查看各工具的详细评估](https://github.com/3416461284a-debug/akshare/tree/research-catalog-2026-10-25/%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7%E7%AE%B1/03_详细报告和核验记录/%E7%83%AD%E9%97%A8%E5%B7%A5%E5%85%B7%E7%BC%BA%E9%99%B7%E4%B8%8E%E6%94%B9%E9%80%A0%E6%8A%A5%E5%91%8A.md)
+
+中文用途整理日期：2026年10月25日。
+<!-- 中文用途说明：结束 -->
+
+---
+
+<details>
+<summary>原项目详细说明（点击展开）</summary>
+
 # Metabase
 
 [Metabase](https://www.metabase.com) is the easy, open-source way for everyone in your company to ask questions and learn from data.
@@ -80,3 +105,6 @@ Unless otherwise noted, all files © 2026 Metabase, Inc.
 ## Metabase Experts
 
 If you’d like more technical resources to set up your data stack with Metabase, connect with a [Metabase Expert](https://www.metabase.com/partners?utm_source=readme&utm_medium=metabase-expetrs&utm_campaign=readme).
+
+
+</details>
